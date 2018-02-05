@@ -64,7 +64,7 @@ The application returns the flights list of the following form:
 
 ## Deployment
 
-The project war file is located in this root folder as ryanairtask.war
+The project war file is located in this root folder as **ryanairtask.war**
 
 ## Built With
 
