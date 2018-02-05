@@ -1,6 +1,6 @@
-# Ryanair - Task 2 - Java/Spring - Interconnecting Flights
+# Task 2 - Java/Spring - Interconnecting Flights
 
-Spring MVC based RESTful API developed for Ryanair's recruitment process. 
+Spring MVC based RESTful API. 
 
 ## Description
 
